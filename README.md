@@ -3,7 +3,7 @@ WELCOME TO HOTEL ROOM RESERVATION SYSTEM
 Recep Salih Yazar
 040170066
 **********************
-Its Object Orienting Programming courses homework, it contains OOP features, all coded by C++.
+Its Object Orienting Programming example, it contains OOP features, all coded by C++.
 **********************
 How to use?
 **********************
